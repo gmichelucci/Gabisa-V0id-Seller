@@ -1,0 +1,39 @@
+# Ambientes e Segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.token
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Node.js & Baileys WhatsApp Session (DADOS SENSÍVEIS DE LOGIN)
+node_modules/
+whatsapp_service/node_modules/
+whatsapp_service/auth_info_baileys/
+auth_info_baileys/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos Binários Pesados de Câmera (DNG RAW ~350MB - fotos hospedadas no Supabase)
+*.DNG
+*.dng
+
+# Ferramentas locais e Cache de Análise
+graphify-out/
+
+# Sistema Operacional e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

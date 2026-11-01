@@ -1,0 +1,150 @@
+[
+  {
+    "cod_gabisa": "1008",
+    "nome": "CLASSECOR",
+    "nome_tecnico": "Laminado Sintético em PVC Extrusado",
+    "termos_mercado": [
+      "Tecido Sintético",
+      "Corino",
+      "Corano",
+      "Laminado Sintético"
+    ],
+    "nicho_principal": "Moveleiro",
+    "aplicacoes": "Móveis em geral, sofás, poltronas, cadeiras, pufes, cabeceiras, brindes",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.5,
+    "quantidade_rolo_m": 50,
+    "preco_custo_metro": 8.8,
+    "peso_rolo_fechado_kg": 25.0,
+    "preco_custo_rolo_fechado": 440.0
+  },
+  {
+    "cod_gabisa": "1030",
+    "nome": "DUNE 0.9",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado 0.9mm",
+    "termos_mercado": [
+      "Tecido Sintético",
+      "Courvin",
+      "Dune",
+      "Facto"
+    ],
+    "nicho_principal": "Moveleiro / Bolsas",
+    "aplicacoes": "Móveis decorativos, estofados, bolsas, nécessaires, brindes de luxo",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.78,
+    "quantidade_rolo_m": 30,
+    "preco_custo_metro": 16.5,
+    "peso_rolo_fechado_kg": 23.4,
+    "preco_custo_rolo_fechado": 495.0
+  },
+  {
+    "cod_gabisa": "1018",
+    "nome": "NEW AUTOMOTIVO 1.0",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado 1.0mm",
+    "termos_mercado": [
+      "Tecido Sintético",
+      "Courvin Automotivo",
+      "Courvin Uruguaio",
+      "Couro Sintético Automotivo"
+    ],
+    "nicho_principal": "Automotivo",
+    "aplicacoes": "Bancos de carros, capotaria automotiva, capas de banco, laterais de portas, volantes, móveis de alta resistência",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 1.022,
+    "quantidade_rolo_m": 30,
+    "preco_custo_metro": 14.5,
+    "peso_rolo_fechado_kg": 30.66,
+    "preco_custo_rolo_fechado": 435.0
+  },
+  {
+    "cod_gabisa": "1057",
+    "nome": "BERGAMO 1.0",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado 1.0mm (Anti-UV, Anti-Chama, Bactericida, Fungicida)",
+    "termos_mercado": [
+      "Courvin Náutico",
+      "Tecido Náutico",
+      "Courvin Marino",
+      "Courvin Área Externa"
+    ],
+    "nicho_principal": "Náutico / Garden",
+    "aplicacoes": "Barcos, lanchas, iates, jet ski, móveis para área externa, varandas, piscinas, estofados hospitalares",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 1.022,
+    "quantidade_rolo_m": 30,
+    "preco_custo_metro": 18.5,
+    "peso_rolo_fechado_kg": 30.66,
+    "preco_custo_rolo_fechado": 555.0
+  },
+  {
+    "cod_gabisa": "1003",
+    "nome": "HONDA",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado para Moto",
+    "termos_mercado": [
+      "Courvin Honda",
+      "Capa Banco Moto",
+      "Tecido Sintético Honda"
+    ],
+    "nicho_principal": "Duas Rodas / Motos",
+    "aplicacoes": "Bancos de motos (linha Honda), capas de selim, reformas de bancos de moto",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.67,
+    "quantidade_rolo_m": 40,
+    "preco_custo_metro": 13.5,
+    "peso_rolo_fechado_kg": 26.8,
+    "preco_custo_rolo_fechado": 540.0
+  },
+  {
+    "cod_gabisa": "1010",
+    "nome": "CEDROMOV",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado Liso",
+    "termos_mercado": [
+      "Courvin Liso",
+      "Courvin para Moto",
+      "Cedromov"
+    ],
+    "nicho_principal": "Duas Rodas / Brindes",
+    "aplicacoes": "Bancos de motos acabamento liso, capas, brindes promocionais, pequenos estofados",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.67,
+    "quantidade_rolo_m": 40,
+    "preco_custo_metro": 13.5,
+    "peso_rolo_fechado_kg": 26.8,
+    "preco_custo_rolo_fechado": 540.0
+  },
+  {
+    "cod_gabisa": "1035",
+    "nome": "FAVO CAR",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado Gravação Favo/Disco",
+    "termos_mercado": [
+      "Courvin Favo",
+      "Courvin Disco",
+      "Courvin Antiderrapante Moto"
+    ],
+    "nicho_principal": "Duas Rodas / Automotivo",
+    "aplicacoes": "Bancos de motos antiderrapante / favo, detalhes de bancos automotivos, capas e brindes",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.67,
+    "quantidade_rolo_m": 40,
+    "preco_custo_metro": 14.5,
+    "peso_rolo_fechado_kg": 26.8,
+    "preco_custo_rolo_fechado": 580.0
+  },
+  {
+    "cod_gabisa": "1040",
+    "nome": "HBROS",
+    "nome_tecnico": "Laminado Sintético em PVC Espalmado Especial Honda Bros",
+    "termos_mercado": [
+      "Courvin Honda Bros",
+      "Capa Banco Bros",
+      "Courvin Linha Bros"
+    ],
+    "nicho_principal": "Duas Rodas / Motos",
+    "aplicacoes": "Bancos de motos linha Honda Bros e trail, capas esportivas, capas sob medida",
+    "largura_m": 1.4,
+    "peso_metro_linear_kg": 0.67,
+    "quantidade_rolo_m": 40,
+    "preco_custo_metro": 14.5,
+    "peso_rolo_fechado_kg": 26.8,
+    "preco_custo_rolo_fechado": 580.0
+  }
+]
